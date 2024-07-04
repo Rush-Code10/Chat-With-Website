@@ -13,6 +13,9 @@ A chat with website app, made by using Streamlit, Ollama & Langchain.
    Run this command: ```streamlit run chat_with_website.py```
 
 Your all set !
-
 Note you can use any model available on Ollama, just change the model name in the code.
+
+## Demo
+![1719915782244](https://github.com/Rush-Code10/Chat-With-Website/assets/71811932/8a7ceb4a-6af9-4f49-95fe-9eeffb8a7048)
+
 
