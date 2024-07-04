@@ -4,7 +4,7 @@ A chat with website app, made by using Streamlit, Ollama & Langchain.
 ## How To Use
 
 1. Install Ollama
-   Here's the Link: ```https://www.ollama.com/```
+      Here's the Link: ```https://www.ollama.com/```
 2. Open CMD
    Run this command: ```ollama run qwen2:0.5b```
 3. Open CMD
